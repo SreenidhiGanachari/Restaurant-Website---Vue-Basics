@@ -1,0 +1,36 @@
+{
+  "user": [
+    {
+      "name": "Sreenidhi",
+      "email": "sreenidhi@test.com",
+      "password": 1234,
+      "id": 1
+    },
+    {
+      "email": "scott@hotmail.com",
+      "password": "scott123",
+      "name": "Scott Antonio",
+      "id": 2
+    },
+    {
+      "email": "scott@abc.com",
+      "password": "Scott123456",
+      "id": 3
+    },
+    {
+      "email": "padma@hotmail.com",
+      "password": "Padma#345678",
+      "name": "Padmavathi",
+      "id": 4
+    }
+  ],
+  "resturant":[
+    {
+      "id":1,
+      "name":"Burger King",
+      "contact":111111,
+      "address":"Noida"
+    }
+
+  ]
+}
